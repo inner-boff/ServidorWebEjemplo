@@ -1,0 +1,14 @@
+C:\Users\pamel\OneDrive\Documentos\pame\IFTS11\2024_parte1\ProgSobreRedes\ProyectoFinal\ChatGPT_compartido\simple_web_server\simple_web_server\bin\Debug\net8.0\simple_web_server.exe
+C:\Users\pamel\OneDrive\Documentos\pame\IFTS11\2024_parte1\ProgSobreRedes\ProyectoFinal\ChatGPT_compartido\simple_web_server\simple_web_server\bin\Debug\net8.0\simple_web_server.deps.json
+C:\Users\pamel\OneDrive\Documentos\pame\IFTS11\2024_parte1\ProgSobreRedes\ProyectoFinal\ChatGPT_compartido\simple_web_server\simple_web_server\bin\Debug\net8.0\simple_web_server.runtimeconfig.json
+C:\Users\pamel\OneDrive\Documentos\pame\IFTS11\2024_parte1\ProgSobreRedes\ProyectoFinal\ChatGPT_compartido\simple_web_server\simple_web_server\bin\Debug\net8.0\simple_web_server.dll
+C:\Users\pamel\OneDrive\Documentos\pame\IFTS11\2024_parte1\ProgSobreRedes\ProyectoFinal\ChatGPT_compartido\simple_web_server\simple_web_server\bin\Debug\net8.0\simple_web_server.pdb
+C:\Users\pamel\OneDrive\Documentos\pame\IFTS11\2024_parte1\ProgSobreRedes\ProyectoFinal\ChatGPT_compartido\simple_web_server\simple_web_server\obj\Debug\net8.0\simple_web_server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pamel\OneDrive\Documentos\pame\IFTS11\2024_parte1\ProgSobreRedes\ProyectoFinal\ChatGPT_compartido\simple_web_server\simple_web_server\obj\Debug\net8.0\simple_web_server.AssemblyInfoInputs.cache
+C:\Users\pamel\OneDrive\Documentos\pame\IFTS11\2024_parte1\ProgSobreRedes\ProyectoFinal\ChatGPT_compartido\simple_web_server\simple_web_server\obj\Debug\net8.0\simple_web_server.AssemblyInfo.cs
+C:\Users\pamel\OneDrive\Documentos\pame\IFTS11\2024_parte1\ProgSobreRedes\ProyectoFinal\ChatGPT_compartido\simple_web_server\simple_web_server\obj\Debug\net8.0\simple_web_server.csproj.CoreCompileInputs.cache
+C:\Users\pamel\OneDrive\Documentos\pame\IFTS11\2024_parte1\ProgSobreRedes\ProyectoFinal\ChatGPT_compartido\simple_web_server\simple_web_server\obj\Debug\net8.0\simple_web_server.dll
+C:\Users\pamel\OneDrive\Documentos\pame\IFTS11\2024_parte1\ProgSobreRedes\ProyectoFinal\ChatGPT_compartido\simple_web_server\simple_web_server\obj\Debug\net8.0\refint\simple_web_server.dll
+C:\Users\pamel\OneDrive\Documentos\pame\IFTS11\2024_parte1\ProgSobreRedes\ProyectoFinal\ChatGPT_compartido\simple_web_server\simple_web_server\obj\Debug\net8.0\simple_web_server.pdb
+C:\Users\pamel\OneDrive\Documentos\pame\IFTS11\2024_parte1\ProgSobreRedes\ProyectoFinal\ChatGPT_compartido\simple_web_server\simple_web_server\obj\Debug\net8.0\simple_web_server.genruntimeconfig.cache
+C:\Users\pamel\OneDrive\Documentos\pame\IFTS11\2024_parte1\ProgSobreRedes\ProyectoFinal\ChatGPT_compartido\simple_web_server\simple_web_server\obj\Debug\net8.0\ref\simple_web_server.dll
