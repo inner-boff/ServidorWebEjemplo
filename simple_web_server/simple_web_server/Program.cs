@@ -27,6 +27,7 @@ class SimpleWebServer
         Console.WriteLine($"Listening on port {port}. Serving files from {rootDirectory}");
 
         // Bucle infinito para manejar solicitudes entrantes de forma concurrente
+        // Aqui hay que chequear el tema CONCURRENCIA
         while (true)
         {
             // Esperar a que llegue una solicitud HTTP
@@ -47,6 +48,8 @@ class SimpleWebServer
             urlPath = "index.html";
         }
 
+        // VER SI PODEMOS SIMPLIFICAR CON ELSE
+
         // Construir la ruta completa del archivo solicitado
         string filePath = Path.Combine(rootDirectory, urlPath);
         if (!File.Exists(filePath))
@@ -56,6 +59,7 @@ class SimpleWebServer
             context.Response.StatusCode = (int)HttpStatusCode.NotFound; // Establecer el código de estado 404
         }
 
+        // PROBAR ESTA SOLICITUD
         // Manejar solicitudes POST
         if (context.Request.HttpMethod == "POST")
         {
@@ -102,6 +106,9 @@ class SimpleWebServer
         context.Response.Close();
     }
 
+
+    // CHEQUEAR QUE SE ESTA LOGUEANDO LO QUE PIDEN LOS REQUISITOS
+    // POR EJEMPLO: DIRECCION IP
     // Método para registrar datos en un archivo de log
     private static void LogData(string data)
     {

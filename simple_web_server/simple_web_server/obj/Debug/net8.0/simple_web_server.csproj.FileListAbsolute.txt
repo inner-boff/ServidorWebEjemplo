@@ -12,3 +12,4 @@ C:\Users\pamel\OneDrive\Documentos\pame\IFTS11\2024_parte1\ProgSobreRedes\Proyec
 C:\Users\pamel\OneDrive\Documentos\pame\IFTS11\2024_parte1\ProgSobreRedes\ProyectoFinal\ChatGPT_compartido\simple_web_server\simple_web_server\obj\Debug\net8.0\simple_web_server.pdb
 C:\Users\pamel\OneDrive\Documentos\pame\IFTS11\2024_parte1\ProgSobreRedes\ProyectoFinal\ChatGPT_compartido\simple_web_server\simple_web_server\obj\Debug\net8.0\simple_web_server.genruntimeconfig.cache
 C:\Users\pamel\OneDrive\Documentos\pame\IFTS11\2024_parte1\ProgSobreRedes\ProyectoFinal\ChatGPT_compartido\simple_web_server\simple_web_server\obj\Debug\net8.0\ref\simple_web_server.dll
+C:\Users\pamel\OneDrive\Documentos\pame\IFTS11\2024_parte1\ProgSobreRedes\ProyectoFinal\ChatGPT_compartido\simple_web_server\simple_web_server\obj\Debug\net8.0\simple_web_server.sourcelink.json
